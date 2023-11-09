@@ -1,0 +1,56 @@
+body{
+    margin: 5px;
+    padding: 10px;
+}
+
+header{
+    text-transform: uppercase;
+}
+.description {
+    background-color: rgba(255, 166, 0, 0.066);
+    border-style: hidden;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.slogan_logo {
+    background: rgb(226, 107, 28);
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.slogan_logo img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    padding: 20px;
+}
+.slogan_logo p{
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+}
+
+.slogan_logo h1 {
+    font-size: 90px;
+    display: flex;
+}
+
+.app-card {
+    background: beige;
+}
+
+.app-card img {
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+footer {
+    background: url(./musi2.jpg);
+    padding: 10px;
+}
